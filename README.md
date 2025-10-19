@@ -58,6 +58,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 
 </details>
+
 5. `You are ready to use your mini webcam`  
 6. `You can access the camera settings from esp32cam's ip --> "http://192.168.1.63"`
 
