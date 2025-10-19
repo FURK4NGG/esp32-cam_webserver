@@ -43,10 +43,22 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 
 ## 🎉 Run  
-1. `Connect the battery to the board`  
-2. `Disconnect the IO0-GND connection(disable programming mode)`  
-3. `Press the reset button on the esp32cam`  
-4. `You are ready to use your mini camera`  
+1. `Disconnect the IO0-GND connection(disable programming mode)`
+2. `Connect your esp32cam to your pc`
+3. `Press the reset button on the esp32cam`
+<details>
+<summary>Open 'OBS' app and follow these steps:</summary>
+
+1. Sources(Kaynaklar)>Click +>Media Source(Ortam kaynağı)>Click OK>Deselect the 'Local File'
+  - Network Buffering: 16MB(max)
+  - Input: esp32cam's last stream ip + (gate 81) + '/stream' --> "http://192.168.1.63:81/stream"
+  - Reconnect Delay: 5S
+  - !Keep the other settings as default!
+
+
+</details>
+5. ``
+6.  `You are ready to use your mini camera`  
 
 
 ## 🔒 License  
