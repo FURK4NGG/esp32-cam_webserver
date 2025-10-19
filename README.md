@@ -17,7 +17,7 @@
 https://dl.espressif.com/dl/package_esp32_index.json
 ```
 3. `Click 'OK'`
-4. `Install the 'Arduino IDE' software and open 'Examples>esp32>Camera>CameraWebServer' file`
+4. `Install the 'Arduino IDE' software and open 'Examples>ESP32>Camera>CameraWebServer' file`
 5. `Tools>Board>Boards Manager...`  
 6. `Search 'esp32' by Espressif Systems, and install it` 
 > ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340, CH341, FT232R / FTDI Driver, CP2102) before connecting the ESP32CAM to your computer.
