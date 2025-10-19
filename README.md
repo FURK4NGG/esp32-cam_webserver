@@ -34,6 +34,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 - Flash Frequency: 80MHz
 - Flash Mode: QIO
 - Partition Scheme: Huge APP (3MB No OTA/1MB SPIFFS)
+- *115200 baud*
 
 </details>
 
