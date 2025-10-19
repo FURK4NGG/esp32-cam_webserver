@@ -6,7 +6,7 @@
 
 
 ## 🚀 Features  
-<h1 align="center">This a portable mini photo camera.It has also a flash.Every photo saved with unique name in a sd card storage.</h1>  
+<h1 align="center">This a portable webcam.It has also a flash.If you want, you can record stream in the OBS application, or create a virtual camera in OBS and use it with applications like Zoom or Teams.</h1>  
 
 
 ## 📦 Setup 
