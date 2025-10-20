@@ -18,8 +18,9 @@ https://dl.espressif.com/dl/package_esp32_index.json
 ```
 3. `Click 'OK'`
 4. `Install the 'Arduino IDE' software and open 'Examples>ESP32>Camera>CameraWebServer' file`
-5. `Tools>Board>Boards Manager...`  
-6. `Search 'esp32' by Espressif Systems, and install it` 
+5. `Open the 'board_config.h' and add '//' at the beginning to turn your default camera module line for change into a comment line then, remove the '//' in front of #define CAMERA_MODEL_AI_THINKER.`
+6. `Tools>Board>Boards Manager...`  
+7. `Search 'esp32' by Espressif Systems, and install it` 
 > ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340, CH341, FT232R / FTDI Driver, CP2102) before connecting the ESP32CAM to your computer.
 7. `Plug the ESP32CAM into your computer`
 8. `Tools>Board>esp32>'AI Thinker ESP32-CAM'`
