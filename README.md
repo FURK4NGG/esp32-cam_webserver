@@ -9,6 +9,14 @@
 <h1 align="center">This a portable webcam.It has also a flash.If you want, you can record stream in the OBS application, or create a virtual camera in OBS and use it with applications like Zoom or Teams.</h1>  
 
 
+## 🔎 Preparation
+<details>
+<summary>1. Components</summary>
+'1' ESP32-CAM<br>
+'1' FT232RL USB to UART Converter<br>
+</details>
+
+
 ## 📦 Setup 
 1. `Refer to the circuit diagram`
 2. `File>Preferences>Additional Boards Manager URLs:(Click the double window button)`
