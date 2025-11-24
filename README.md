@@ -9,7 +9,7 @@
 
 
 ## 🚀 Features  
-<h1 align="center">This a portable webcam.It has also a flash.If you want, you can record stream in the OBS application, or create a virtual camera in OBS and use it with applications like Zoom or Teams.</h1>  
+<h1 align="center">This a portable webcam (1600x1200).It has also a flash.If you want, you can record stream in the OBS application, or create a virtual camera in OBS and use it with applications like Zoom or Teams.</h1>  
 
 
 ## 🔎 Preparation
