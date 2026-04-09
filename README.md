@@ -72,7 +72,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 5. `You are ready to use your mini webcam`  
 6. `You can access the camera settings from esp32cam's ip --> "http://192.168.1.63"`
 
-> ✨ **Tip:** If you want to avoid being tied to a cable, you can use portable power sources such as a power bank that provides a 5V output, allowing you to use your device freely wherever you like.
+> ✨ **Tip:** If you want to avoid being tied to a cable, you can use portable power sources such as a power bank that provides a 5V 1A output, allowing you to use your device freely wherever you like.
 
 
 ## 🔒 License  
