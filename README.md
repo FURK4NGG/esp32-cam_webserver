@@ -1,5 +1,3 @@
-<!-- buton ve batarya eklenmis devre semasi -->
-
 ## 👀 esp32-cam_webserver Overview  
 <h1 align="center">A handmade webcam</h1>  
 
