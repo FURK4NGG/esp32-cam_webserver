@@ -3,7 +3,7 @@
 
 ![Image](https://github.com/FURK4NGG/esp32-cam_webserver/blob/main/{}/esp32-cam_webserver-1.webp)
 
-![Image](https://github.com/FURK4NGG/esp32-cam_webserver/blob/main/{}/esp32-cam_webserver-1.webp)
+![Image](https://github.com/FURK4NGG/esp32-cam_webserver/blob/main/{}/esp32-cam_webserver-2.webp)
 
 ## 🚀 Features  
 <h1 align="center">This a portable webcam (1600x1200).It has also a flash.If you want, you can record stream in the OBS application, or create a virtual camera in OBS and use it with applications like Zoom or Teams.</h1>  
