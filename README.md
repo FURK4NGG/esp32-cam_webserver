@@ -1,10 +1,9 @@
 ## 👀 esp32-cam_webserver Overview  
 <h1 align="center">A handmade webcam</h1>  
 
+![Image](https://github.com/FURK4NGG/esp32-cam-webserver/blob/main/{}/esp32-cam_webserver-1.webp)
 
-![Image](https://github.com/user-attachments/assets/4ce4f88f-1948-4605-b5d2-8e3a560e5176)
-![Image](https://github.com/user-attachments/assets/f7362817-596c-4757-8a26-0679a51139fc)
-
+![Image](https://github.com/FURK4NGG/esp32-cam-webserver/blob/main/{}/esp32-cam_webserver-1.webp)
 
 ## 🚀 Features  
 <h1 align="center">This a portable webcam (1600x1200).It has also a flash.If you want, you can record stream in the OBS application, or create a virtual camera in OBS and use it with applications like Zoom or Teams.</h1>  
